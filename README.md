@@ -3,7 +3,7 @@
 - 👀 I’m interested in Javascript.
 - 🌱 I’m currently learning React
 - 📫 How to reach me minhazul.dev@gmail.com
-
+- 
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/codestackr)
 
 minhazul-dev/minhazul-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
